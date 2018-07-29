@@ -16,7 +16,6 @@ function draw(id){
         //设置颜色样式, 填充 或者 画 边框.
         context.fillStyle = 'rgba(255,0,0,0.25)';
         context.fill();
-
     }
 
 }
